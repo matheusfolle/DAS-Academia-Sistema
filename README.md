@@ -1,18 +1,38 @@
-## Getting Started
+# 🏋️‍♂️ Sistema Gerenciador de Academia 🏋️‍♂️
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém o código-fonte de um sistema de console em Java para o gerenciamento de uma academia, permitindo o cadastro de clientes, exercícios e a montagem de planos de treino.
 
-## Folder Structure
+Este projeto foi desenvolvido como avaliação final para a disciplina de **Arquitetura de Software**.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📄 Documentação de Arquitetura (DAS)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Toda a documentação de arquitetura de software (DAS) deste projeto — incluindo Requisitos, Casos de Uso, Diagramas UML e Justificativas de Design — está disponível na **Wiki** deste repositório.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+# ➡️ [Clique aqui para acessar a Wiki com a Documentação Completa](https://github.com/matheusfolle/DAS-Academia-Sistema/wiki)
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## ✨ Tecnologias e Conceitos Aplicados
+
+* **Linguagem:** Java
+* **Arquitetura:** Model-View-Controller (MVC)
+* **Padrões de Projeto (GOF):**
+    * Factory Method
+    * Singleton
+    * Adapter
+    * Composite
+* **Documentação:** UML (Diagramas de Casos de Uso, Classes e Sequência)
+
+## 🚀 Funcionalidades Principais
+
+* Gerenciamento de Clientes (CRUD)
+* Gerenciamento de Exercícios (CRUD)
+* Gerenciamento e Montagem de Treinos (para Administradores e Clientes)
+
+## 👥 Autores
+
+* **Matheus Folle** ([matheusfolle](https://github.com/matheusfolle))
+* **Kalil Pock** ([matheusfolle](https://github.com/kalilpock))
+* **Matheus Müller** ([matheusfolle](https://github.com/pacamole))
