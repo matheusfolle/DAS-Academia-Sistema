@@ -34,5 +34,6 @@ Toda a documentação de arquitetura de software (DAS) deste projeto — incluin
 ## 👥 Autores
 
 * **Matheus Folle** ([matheusfolle](https://github.com/matheusfolle))
-* **Kalil Pock** ([matheusfolle](https://github.com/kalilpock))
-* **Matheus Müller** ([matheusfolle](https://github.com/pacamole))
+* **Kalil Pock** ([kalilpock](https://github.com/kalilpock))
+* **Matheus Müller** ([pacamole](https://github.com/pacamole))
+
