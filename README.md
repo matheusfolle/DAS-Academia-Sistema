@@ -40,8 +40,3 @@ Toda a documentação de arquitetura de software (DAS) deste projeto — incluin
 * **RGM 38988879:** Matheus Gustavo Saldanha Folle ([matheusfolle](https://github.com/matheusfolle))
 * **RGM 38263297:** Kalil Maciel Pock ([kalilpock](https://github.com/kalilpock))
 * **RGM 38693500:** Matheus Müller dos Santos ([pacamole](https://github.com/pacamole))
-
-
-
-
-
