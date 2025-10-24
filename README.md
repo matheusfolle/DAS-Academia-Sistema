@@ -12,9 +12,9 @@ Toda a documentação de arquitetura de software (DAS) deste projeto — incluin
 
 ### ➡️ [Clique aqui para acessar a Wiki com a Documentação Completa](https://github.com/matheusfolle/DAS-Academia-Sistema/wiki)
 
-### ➡️ [Documento ABNT Completo (PDF)](./docs/DAS_Academia_Final.pdf)
+### ➡️ [Clique aqui para acessar o Documento ABNT Completo (PDF)](./docs/DAS_Academia_Final.pdf)
 
-### ➡️ [Slides da Apresentação](https://gamma.app/docs/Documento-de-Arquitetura-de-Software-5xlp9iy3ph7212a?mode=doc)
+### ➡️ [Clique aqui para acessar os Slides da Apresentação](https://gamma.app/docs/Documento-de-Arquitetura-de-Software-5xlp9iy3ph7212a?mode=doc)
 
 ---
 
