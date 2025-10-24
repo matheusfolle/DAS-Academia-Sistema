@@ -12,9 +12,9 @@ Toda a documentação de arquitetura de software (DAS) deste projeto — incluin
 
 ### ➡️ [Clique aqui para acessar a Wiki com a Documentação Completa](https://github.com/matheusfolle/DAS-Academia-Sistema/wiki)
 
-O documento final formatado, conforme entregue, está disponível para download.
+O documento final formatado, conforme entregue, está disponível para visual.
 
-### ➡️ [Clique aqui para acessar o Documento ABNT Completo (PDF)](https://github.com/matheusfolle/DAS-Academia-Sistema/releases/tag/v1.0.0-entrega-final)
+### ➡️ [Clique aqui para visualizar o Documento ABNT Completo (PDF)](https://drive.google.com/file/d/1h5FVsIRFu8A9C6ATPzgDDxQ6VYjKqzYb/view?usp=sharing)
 
 Os slides utilizados na defesa do projeto estão disponíveis no Gamma App.
 
