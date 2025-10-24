@@ -10,11 +10,11 @@ Este projeto foi desenvolvido como avaliação final para a disciplina de **Arqu
 
 Toda a documentação de arquitetura de software (DAS) deste projeto — incluindo Requisitos, Casos de Uso, Diagramas UML e Justificativas de Design — está disponível na **Wiki** deste repositório.
 
-# ➡️ [Clique aqui para acessar a Wiki com a Documentação Completa](https://github.com/matheusfolle/DAS-Academia-Sistema/wiki)
+### ➡️ [Clique aqui para acessar a Wiki com a Documentação Completa](https://github.com/matheusfolle/DAS-Academia-Sistema/wiki)
 
-# ➡️ [Documento ABNT Completo (PDF)](./docs/DAS_Academia_Final.pdf)
+### ➡️ [Documento ABNT Completo (PDF)](./docs/DAS_Academia_Final.pdf)
 
-# ➡️ [Slides da Apresentação](https://gamma.app/docs/Documento-de-Arquitetura-de-Software-5xlp9iy3ph7212a?mode=doc)
+### ➡️ [Slides da Apresentação](https://gamma.app/docs/Documento-de-Arquitetura-de-Software-5xlp9iy3ph7212a?mode=doc)
 
 ---
 
