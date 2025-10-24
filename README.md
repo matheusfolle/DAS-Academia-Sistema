@@ -22,7 +22,7 @@ Os slides utilizados na defesa do projeto estão disponíveis no Gamma App.
 
 ---
 
-## ✨ Tecnologias e Conceitos Aplicados
+## Tecnologias e Conceitos Aplicados
 
 * **Linguagem:** Java
 * **Arquitetura:** Model-View-Controller (MVC)
@@ -33,13 +33,13 @@ Os slides utilizados na defesa do projeto estão disponíveis no Gamma App.
     * Composite
 * **Documentação:** UML (Diagramas de Casos de Uso, Classes e Sequência)
 
-## 🚀 Funcionalidades Principais
+## Funcionalidades Principais
 
 * Gerenciamento de Clientes (CRUD)
 * Gerenciamento de Exercícios (CRUD)
 * Gerenciamento e Montagem de Treinos (para Administradores e Clientes)
 
-## 👥 Autores
+## Autores
 
 * **RGM 38988879:** Matheus Gustavo Saldanha Folle ([matheusfolle](https://github.com/matheusfolle))
 * **RGM 38263297:** Kalil Maciel Pock ([kalilpock](https://github.com/kalilpock))
