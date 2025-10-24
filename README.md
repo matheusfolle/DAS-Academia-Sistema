@@ -1,5 +1,7 @@
 # Sistema Gerenciador de Academia 🏋️‍♂️
 
+![Java](https://img.shields.io/badge/Language-Java-blue?style=flat-square)
+
 Este repositório contém o código-fonte de um sistema de console em Java para o gerenciamento de uma academia, permitindo o cadastro de clientes, exercícios e a montagem de planos de treino.
 
 Este projeto foi desenvolvido como avaliação final para a disciplina de **Arquitetura de Software**.
