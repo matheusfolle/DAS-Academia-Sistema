@@ -28,9 +28,6 @@ Os slides utilizados na defesa do projeto estão disponíveis no Gamma App.
 * **Arquitetura:** Model-View-Controller (MVC)
 * **Padrões de Projeto (GOF):**
     * Factory Method
-    * Singleton
-    * Adapter
-    * Composite
 * **Documentação:** UML (Diagramas de Casos de Uso, Classes e Sequência)
 
 ## Funcionalidades Principais
