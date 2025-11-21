@@ -1,10 +1,8 @@
-# Sistema Gerenciador de Academia 🏋️‍♂️
+# Ironlog: Sistema Gerenciador de Academia 🏋️‍♂️
 
 ![Java](https://img.shields.io/badge/Language-Java-blue?style=flat-square)
 
 Este repositório contém o código-fonte de um sistema de console em Java para o gerenciamento de uma academia, permitindo o cadastro de clientes, exercícios e a montagem de planos de treino.
-
-Este projeto foi desenvolvido como avaliação final para a disciplina de **Arquitetura de Software**.
 
 ---
 
@@ -12,15 +10,15 @@ Este projeto foi desenvolvido como avaliação final para a disciplina de **Arqu
 
 Toda a documentação de arquitetura de software (DAS) deste projeto — incluindo Requisitos, Casos de Uso, Diagramas UML e Justificativas de Design — está disponível na **Wiki** deste repositório.
 
-### ➡️ [Clique aqui para acessar a Wiki com a Documentação Completa](https://github.com/matheusfolle/DAS-Academia-Sistema/wiki)
+### ➡️ [Clique aqui para acessar a Wiki com a documentação completa](https://github.com/matheusfolle/DAS-Academia-Sistema/wiki)
 
 O documento final formatado, conforme entregue, está disponível para visual.
 
-### ➡️ [Clique aqui para visualizar o Documento ABNT Completo (PDF)](https://drive.google.com/file/d/1h5FVsIRFu8A9C6ATPzgDDxQ6VYjKqzYb/view?usp=sharing)
+### ➡️ [Clique aqui para visualizar o paper completo (PDF)](https://drive.google.com/file/d/1h5FVsIRFu8A9C6ATPzgDDxQ6VYjKqzYb/view?usp=sharing)
 
 Os slides utilizados na defesa do projeto estão disponíveis no Gamma App.
 
-### ➡️ [Clique aqui para acessar os Slides da Apresentação](https://gamma.app/docs/Documento-de-Arquitetura-de-Software-5xlp9iy3ph7212a?mode=doc)
+### ➡️ [Clique aqui para acessar os slides da apresentação](https://gamma.app/docs/Documento-de-Arquitetura-de-Software-5xlp9iy3ph7212a?mode=doc)
 
 ---
 
@@ -40,9 +38,3 @@ Os slides utilizados na defesa do projeto estão disponíveis no Gamma App.
 * Gerenciamento de Clientes (CRUD)
 * Gerenciamento de Exercícios (CRUD)
 * Gerenciamento e Montagem de Treinos (para Administradores e Clientes)
-
-## Autores
-
-* **RGM 38988879:** Matheus Gustavo Saldanha Folle ([matheusfolle](https://github.com/matheusfolle))
-* **RGM 38263297:** Kalil Maciel Pock ([kalilpock](https://github.com/kalilpock))
-* **RGM 38693500:** Matheus Müller dos Santos ([pacamole](https://github.com/pacamole))
