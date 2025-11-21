@@ -12,7 +12,7 @@ Toda a documentação de arquitetura de software (DAS) deste projeto — incluin
 
 ### ➡️ [Clique aqui para acessar a Wiki com a documentação completa](https://github.com/matheusfolle/DAS-Academia-Sistema/wiki)
 
-O documento final formatado, conforme entregue, está disponível para visual.
+O documento final formatado, conforme entregue, está disponível para visualização.
 
 ### ➡️ [Clique aqui para visualizar o paper completo (PDF)](https://drive.google.com/file/d/1h5FVsIRFu8A9C6ATPzgDDxQ6VYjKqzYb/view?usp=sharing)
 
